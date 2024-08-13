@@ -1,0 +1,77 @@
+{
+    "users": {
+        "s": "043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89",
+        "j": "189f40034be7a199f1fa9891668ee3ab6049f82d38c68be70f596eab2e1857b7",
+        "t": "e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8",
+        "juilee": "2d489f73d6e73fab531e57cbfda3f95ee68505dee6b36377c2ed4034252e115d"
+    },
+    "collections": {
+        "s": [
+            {
+                "name": "Collection1",
+                "index_name": "abc"
+            },
+            {
+                "name": "Collection2",
+                "index_name": "index2"
+            }
+        ],
+        "j": [
+            {
+                "name": "Collection3",
+                "index_name": "index3"
+            }
+        ],
+        "t": [
+            {
+                "name": "Collection3",
+                "index_name": "index3"
+            }
+        ],
+        "juilee": [
+            {
+                "name": "project1",
+                "index_name": "project1"
+            }
+        ]
+    },
+    "uploaded_files": {
+        "s": {
+            "Collection1": [
+                "RAG_Evaluation_Report.pdf"
+            ],
+            "Collection2": [
+                "requirements.txt"
+            ]
+        },
+        "j": {
+            "Collection3": [
+                "test_rag.pdf"
+            ]
+        },
+        "t": {
+            "Collection3": [
+                "test_rag.pdf"
+            ]
+        },
+        "juilee": {
+            "project1": [
+                "1 Project Charter.txt",
+                "2 Requirements Specification.txt",
+                "3 Design Documentation.txt",
+                "4 Project Plan.txt",
+                "5 Technical Documentation.txt",
+                "6 User Documentation.txt",
+                "7 Test Plan and Test Cases.txt",
+                "8 Deployment Documentation.txt",
+                "9 Maintenance and Support Documentation.txt",
+                "10 Security Documentation.txt",
+                "11 Change Management Documentation.txt",
+                "12 Performance and Monitoring Documentation.txt",
+                "13 Training Materials.txt",
+                "14 Compliance and Regulatory Documentation.txt",
+                "15 Project Closure Documentation.txt"
+            ]
+        }
+    }
+}
