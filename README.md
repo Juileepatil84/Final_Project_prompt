@@ -1,8 +1,10 @@
-
-# AI project management app using rag, llm and vector database
+# AI project management assistant using rag, llm and vector database
 
 
 This repository contains code, video explanation and pdf explanation of our project management chatbot. The users can clarify any uncertainties and obtain actionable information that helps them better understand their project's status.
+
+An innovative solution leveraging Prompt Engineering to revolutionize project management processes. Developed by Juilee Patil and Soumya Nayak as part of the Prompt Engineering & AI course.
+![image](https://github.com/user-attachments/assets/6f0a83aa-3df0-4736-9d14-6e7591453180)
 
 # Features
 
@@ -40,13 +42,30 @@ cd Final_Project_prompt
 ```shell
 pip install -r requirements.txt
 ```
+# Host on streamlit cloud
+
+1. Sign Up for Streamlit Sharing: Go to Streamlit Sharing and sign up with your GitHub account.
+2. Deploy App: Once logged in, click on ‘New app’, then select your GitHub repository, the branch, and the path to your Streamlit script. 
+4. Configure Secrets (if necessary): If your app uses secrets (like API keys), you can add them in the app settings under the ‘Advance settings’ tab.
+5. Deploy: Click 'Deploy' to start the deployment process. Streamlit will install the dependencies and launch your app.
 
 # Link to video explanation
 https://drive.google.com/file/d/1vJpfN1MNTpGdF60tAQXAvfMx2tPm8vu2/view?usp=sharing
 
-# Link to Youtube Video
-https://youtu.be/iS_PpT4sEjM?si=RCo6HrVjettUUhWv
+# Link to youtube tutorial
+https://youtu.be/iS_PpT4sEjM?si=sMzKrEmZrqoSg4VH
+
+# Link to our website
+https://finalprojectprompt.streamlit.app/
 
 # License
 
 The code in this repository is available under the [MIT License]
+
+# Future scope
+
+Integrate project management applications like jira to extract the data and then automate the task assignment.
+
+# Note 
+
+Pinecone free version allows maximum of 5 index. Exceeding that may give error. As this application is a prototype we are using free version
