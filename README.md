@@ -4,7 +4,6 @@
 This repository contains code, video explanation and pdf explanation of our project management chatbot. The users can clarify any uncertainties and obtain actionable information that helps them better understand their project's status.
 
 An innovative solution leveraging Prompt Engineering to revolutionize project management processes. Developed by Juilee Patil and Soumya Nayak as part of the Prompt Engineering & AI course.
-![image](https://github.com/user-attachments/assets/6f0a83aa-3df0-4736-9d14-6e7591453180)
 
 # Features
 
