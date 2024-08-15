@@ -77,9 +77,11 @@ Pinecone free version allows maximum of 5 index. Exceeding that may give error. 
 # Contact Us
 
 Juilee Patil : https://www.linkedin.com/in/juilee-patil-b49391167/
+
 Git : https://github.com/Juileepatil84
 
 Soumya Nayak : https://www.linkedin.com/in/soumya-neu/
+
 Git : https://github.com/SoumyaNayakk
 
 # License
