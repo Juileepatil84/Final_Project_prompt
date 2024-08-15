@@ -1,9 +1,15 @@
 # AI project management assistant using rag, llm and vector database
 
-
 This repository contains code, video explanation and pdf explanation of our project management chatbot. The users can clarify any uncertainties and obtain actionable information that helps them better understand their project's status.
 
 An innovative solution leveraging Prompt Engineering to revolutionize project management processes. Developed by Juilee Patil and Soumya Nayak as part of the Prompt Engineering & AI course.
+
+![image](https://github.com/user-attachments/assets/5d6fd6bf-27ba-4d25-8e02-e5f645327422)
+
+# Group members
+
+Juilee Patil     : 002724809
+Soumya Nayak     : 002895370
 
 # Features
 
@@ -47,6 +53,7 @@ pip install -r requirements.txt
 2. Deploy App: Once logged in, click on ‘New app’, then select your GitHub repository, the branch, and the path to your Streamlit script. 
 4. Configure Secrets (if necessary): If your app uses secrets (like API keys), you can add them in the app settings under the ‘Advance settings’ tab.
 5. Deploy: Click 'Deploy' to start the deployment process. Streamlit will install the dependencies and launch your app.
+   Refer document : https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app
 
 # Link to video explanation
 https://drive.google.com/file/d/1vJpfN1MNTpGdF60tAQXAvfMx2tPm8vu2/view?usp=sharing
@@ -54,12 +61,8 @@ https://drive.google.com/file/d/1vJpfN1MNTpGdF60tAQXAvfMx2tPm8vu2/view?usp=shari
 # Link to youtube tutorial
 https://youtu.be/iS_PpT4sEjM?si=sMzKrEmZrqoSg4VH
 
-# Link to our website
+# Link to the application
 https://finalprojectprompt.streamlit.app/
-
-# License
-
-The code in this repository is available under the [MIT License]
 
 # Future scope
 
@@ -67,4 +70,17 @@ Integrate project management applications like jira to extract the data and then
 
 # Note 
 
-Pinecone free version allows maximum of 5 index. Exceeding that may give error. As this application is a prototype we are using free version
+Pinecone free version allows maximum of 5 index. Exceeding that may give error. As this application is a prototype we are using free version. You can try code in your own pinceone vector database. 
+
+# Contact Us
+
+Juilee Patil : https://www.linkedin.com/in/juilee-patil-b49391167/
+Git : https://github.com/Juileepatil84
+
+Soumya Nayak : https://www.linkedin.com/in/soumya-neu/
+Git : https://github.com/SoumyaNayakk
+
+# License
+
+The code in this repository is available under the [MIT License]
+
