@@ -73,7 +73,7 @@ Looking ahead, the potential for expanding this chatbot's capabilities is signif
 
 # Note 
 
-Pinecone free version allows maximum of 5 index. Exceeding that may give error. As this application is a prototype we are using free version. You can try code in your own pinceone vector database. 
+Pinecone free version allows maximum of 5 index. Exceeding that may give error. As this application is a prototype we are using free version. You can try code using your own pinceone vector database. 
 
 # Contact Us
 
