@@ -69,6 +69,7 @@ https://finalprojectprompt.streamlit.app/
 # Future scope
 
 Integrate project management applications like jira to extract the data and then automate the task assignment.
+Looking ahead, the potential for expanding this chatbot's capabilities is significant. One promising avenue for future development is the integration of the chatbot with popular project management tools such as JIRA or Asana. By doing so, the chatbot could assist in automating sprint planning and task allocation.
 
 # Note 
 
